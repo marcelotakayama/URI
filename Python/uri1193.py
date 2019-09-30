@@ -22,3 +22,5 @@ for i in range(t):
         print("{:b} bin".format(dec))  
         case += 1  
         print()  
+
+        #Comentário apenas para testar os commit
